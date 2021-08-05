@@ -17,5 +17,8 @@ public class BasicNavigation {
         System.out.println(url);
 
         driver.close();
+
+        // or
+     //   driver.quit();
     }
 }
